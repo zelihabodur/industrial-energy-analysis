@@ -10,6 +10,18 @@ işletmesinin elektrik tüketimi Python ile analiz edilmiştir.
 işletmeleri karşılaştırmak ve makine öğrenmesi yöntemleriyle
 kısa vadeli enerji tüketimi tahminleri oluşturmaktır.
 
+## Analizden Örnek Görseller
+
+### Saatlik Enerji Tüketimi
+![Saatlik enerji tüketimi](outputs/grafikler/04_saatlik_tuketim.png)
+
+### Enerji Tüketimi Dağılımı
+![Histogram](outputs/grafikler/02_goreli_tuketim_histogrami.png)
+
+### Güney Kore - Tahmin Sonuçları
+![Tahmin grafiği](outputs/grafikler/06_kore_tahmin_grafigi.png)
+
+
 ## Kullanılan Teknolojiler
 
 - Python
