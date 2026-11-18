@@ -1,0 +1,27 @@
+
+# Ham veri setleri
+data/
+
+# Buyuk ve ara CSV dosyalari
+outputs/*.csv
+
+# Paylasilacak ozet tablolar
+!outputs/almanya_tesis_ozeti.csv
+!outputs/betimsel_istatistikler.csv
+!outputs/frekans_analizi.csv
+!outputs/regresyon_model_sonuclari.csv
+!outputs/veri_temizleme_kaniti.csv
+!outputs/haftalik_tuketim_analizi.csv
+!outputs/saatlik_tuketim_analizi.csv
+
+# Python gecici dosyalari
+__pycache__/
+*.pyc
+
+# Sanal ortamlar
+.venv/
+venv/
+
+# Gizli bilgiler
+.env
+.env.*
